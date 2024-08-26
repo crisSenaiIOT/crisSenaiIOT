@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<a href="https://github.com/crisSenaiIOT/crisSenaiIOT/blob/main/cv.pdf" class="nav-link">**Curriculo**</a>
-
 <div style ="display: inline_block"><br/>
  <img align="center" alt="html5" src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white&quot; />
  <img align="center" alt="html5" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&quot; />
  <img align="center" alt="html5" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&quot; />
  <img align="center" alt="html5" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&quot; />
 </div>
+
+<a href="https://github.com/crisSenaiIOT/crisSenaiIOT/blob/main/cv.pdf" class="nav-link">**Curriculo**</a>
