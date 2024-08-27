@@ -1,6 +1,6 @@
 ![logo](https://github.com/crisSenaiIOT/crisSenaiIOT/blob/main/senai-logo-3.png)
 
-# hi
+# hi 😂
 ## hi 
 ### hi 
 
